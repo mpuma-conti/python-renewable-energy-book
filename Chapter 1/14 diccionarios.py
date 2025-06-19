@@ -1,7 +1,7 @@
 especificaciones = {
     "nombre": "Transformador",
-    "voltaje_primario": 230,
-    "voltaje_secundario": 115
+    "voltaje_primario": 220,
+    "voltaje_secundario": 110
 }
 
 print(f"Especificaciones del dispositivo: {especificaciones['nombre']}")
